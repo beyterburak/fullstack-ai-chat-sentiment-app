@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSentimentAPI", "ChatSentimentAPI.csproj", "{159CB1D4-5A2D-4F2B-9857-C6F91CC2AC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159CB1D4-5A2D-4F2B-9857-C6F91CC2AC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159CB1D4-5A2D-4F2B-9857-C6F91CC2AC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159CB1D4-5A2D-4F2B-9857-C6F91CC2AC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159CB1D4-5A2D-4F2B-9857-C6F91CC2AC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46316EE-7CD0-4C77-94F5-46BC161B6E49}
+	EndGlobalSection
+EndGlobal
