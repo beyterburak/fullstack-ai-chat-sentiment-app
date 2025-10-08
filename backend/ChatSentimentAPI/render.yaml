@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: chat-sentiment-api
+    runtime: docker
+    dockerfilePath: ./backend/ChatSentimentAPI/Dockerfile
+    dockerContext: ./backend/ChatSentimentAPI
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://+:8080
