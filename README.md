@@ -11,7 +11,7 @@ Kullanıcıların mesajlaşabildiği, her mesajın AI tarafından **pozitif/nöt
 | Platform | URL |
 |----------|-----|
 | **Web App** | [fullstack-ai-chat-sentiment-app.vercel.app](https://fullstack-ai-chat-sentiment-app.vercel.app) |
-| **Backend API** | [Swagger Docs](https://fullstack-ai-chat-sentiment-app.onrender.com/swagger) |
+| **Backend API** | [Health](https://fullstack-ai-chat-sentiment-app.onrender.com/health) |
 | **AI Service** | [HuggingFace Space](https://beyterburak-sentiment-analysis-api.hf.space) |
 
 ---
